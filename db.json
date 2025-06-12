@@ -1,11 +1,24 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "success": true,
+  "data": {
+    "id": "prod_12345",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=500"
+    ],
+    "name": "Wireless Bluetooth Headphones",
+    "price": 299.99,
+    "type": "Electronics",
+    "quantity": 25,
+    "categories": [
+      "Audio",
+      "Bluetooth",
+      "Wireless",
+      "Headphones"
+    ],
+    "description": "Premium wireless Bluetooth headphones with active noise cancellation, 30-hour battery life, and superior sound quality.",
+    "status": "active",
+    "createdAt": "2024-03-15T10:30:00.000Z"
   }
 }
